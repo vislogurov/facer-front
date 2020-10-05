@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  top: 40px;
+  left: 40px;
+  font-size: 40px;
+  position: absolute;
+  font-family: 'FalloutRegular';
+  text-transform: uppercase;
+  color: white;
+}
