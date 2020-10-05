@@ -1,3 +1,5 @@
+![alt text](./img/logo.png)
+
 # Фронтенд для Facer
 
 1. Клонируем репу
